@@ -1,5 +1,4 @@
 import java.util.stream.Stream;
-
 public class FibonacciLambda {
     public static void main(String[] args) {
         int n = 10; // Find the 10th Fibonacci number
